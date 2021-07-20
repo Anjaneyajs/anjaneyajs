@@ -1,4 +1,6 @@
-### Hi there 👋 I am Anjaneya  J S
+<h1 align="center">Hi 👋, I'm Anjaneya J S</h1>
+<h3 align="center">A very passionate developer since my youngest age, from India.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaneyajs&label=Profile%20views&color=f20707&style=flat" alt="anjaneyajs" /> </p>
 
 <!--
 **anjaneyajs21/anjaneyajs21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
