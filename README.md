@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjaneyajs" alt="anjaneyajs" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@anjaneyajs21" target="blank"><img src="https://img.shields.io/twitter/follow/iamanjaneya2000?logo=twitter&style=for-the-badge" alt="iamanjaneya2000" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@anjaneyajs21" target="blank"><img src="https://img.shields.io/twitter/follow/@anjaneyajs21?logo=twitter&style=for-the-badge" alt="@anjaneyajs21" /></a> </p>
 
 - 🌱 I’m currently learning **Dart**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/anjaneya2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anjaneya2000" height="30" width="40" /></a>
-<a href="https://twitter.com/@anjaneyajs21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamanjaneya2000" height="30" width="40" /></a>
+<a href="https://twitter.com/@anjaneyajs21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anjaneyajs21" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anjaneya-j-s-b38438b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjaneya j s" height="30" width="40" /></a>
 <a href="https://www.facebook.com/anjaneyajs21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjaneyajs" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_._.anjaneya_._js_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjaneyajs" height="30" width="40" /></a>
